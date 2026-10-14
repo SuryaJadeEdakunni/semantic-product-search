@@ -1,0 +1,10 @@
+# Runtime
+chromadb>=1.0
+sentence-transformers>=3.0
+ollama>=0.4
+pydantic>=2.0
+
+# Only needed to rebuild the database (scripts/)
+kagglehub
+pandas
+numpy
